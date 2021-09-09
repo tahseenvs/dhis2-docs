@@ -133,7 +133,7 @@ See also:
 [Manage program
 notifications](https://docs.dhis2.org/master/en/user/html/manage_program_notification.html)
 
-[Mange push
+[Manage push
 reports](https://docs.dhis2.org/master/en/user/html/manage_push_report.html)
 
 ## Workflow { #user_mgt_workflow } 
